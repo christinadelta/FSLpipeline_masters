@@ -16,7 +16,7 @@ Dependencies: FSL, python3 and FreeSurfer (in some cases)
 * check your level 3 outputs
 
 ### NOTE:
-These scripts run in combination with GUI interaction (FEAT). For example, I prefer to do a lot of pre-processing stuff (like motion correction, etc.., through FEAT). Also, analysis of level 3 (step 5 is done through the FEAT entirely). 
+These scripts run in combination with GUI interaction (FEAT). For example, I prefer to do a lot of pre-processing stuff (like motion correction, etc.., through FEAT). Also, analysis of level 3 (step 5 is done through FEAT entirely). 
 
 
 
